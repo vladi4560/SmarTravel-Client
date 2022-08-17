@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="SwitchCompatStyle" >
+        <item name="thumbTint">@color/mainGreen</item>
+        <item name="trackTint">@color/menuGreen</item>
+
+    </style>
+
+</resources>

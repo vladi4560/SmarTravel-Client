@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">smarTravel</string>
+    <string name="Profile">Profile</string>
+    <string name="History">History</string>
+    <string name="Upcoming">Upcoming</string>
+    <string name="MyPlaces">My Places</string>
+    <string name="Rates">Rates</string>
+    <string name="Settings">Settings</string>
+    <string name="LogOut">Log Out</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="userName">User Name</string>
+    <string name="firstName">First Name</string>
+    <string name="userFirstName">userFirstName</string>
+    <string name="lastName">Last Name</string>
+    <string name="userLastName">userLastName</string>
+    <string name="email">Email</string>
+    <string name="userEmail">userEmail</string>
+    <string name="yearBirth">Year Of Birth</string>
+    <string name="userYearBirth">userYearBirth</string>
+    <string name="gender">Gender</string>
+    <string name="userGender">userGender</string>
+    <string name="editProfile">Edit Profile</string>
+    <string name="updateProfile">Update Profile</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="createNewTrip">Create New Trip</string>
+    <string name="destination">Destination</string>
+    <string name="startDate">Start Date</string>
+    <string name="endDate">End Date</string>
+    <string name="create">Create</string>
+    <string name="RatingTrip">Rating Trip</string>
+    <string name="question">Question</string>
+    <string name="UpdateRate">Rate</string>
+    <string name="UserName">User Name</string>
+    <string name="SkipRate">Skip</string>
+
+
+</resources>
