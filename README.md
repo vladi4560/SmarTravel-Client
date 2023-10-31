@@ -8,4 +8,4 @@ the " SmarTravel” trip planner app! Plus, if you are visiting points in order,
 different pins on the map so you can see your route (perfect for road trips!). Benefits: save time
 and money and do not miss a favorite place.
 
-![SmarTravel Logo](![SmartTravel icon](https://github.com/vladi4560/SmarTravel-Client/assets/64600121/9a07b8ca-36ff-4918-9571-0d4d82dd964a)
+![SmartTravel icon](https://github.com/vladi4560/SmarTravel-Client/assets/64600121/9a07b8ca-36ff-4918-9571-0d4d82dd964a)
