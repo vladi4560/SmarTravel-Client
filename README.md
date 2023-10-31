@@ -8,15 +8,20 @@ the " SmarTravel” trip planner app! Plus, if you are visiting points in order,
 different pins on the map so you can see your route (perfect for road trips!). Benefits: save time
 and money and do not miss a favorite place.
 
+https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png
+
 ![SmartTravel icon](https://github.com/vladi4560/SmarTravel-Client/assets/64600121/9a07b8ca-36ff-4918-9571-0d4d82dd964a)
 
-## Key Features
+:space_invader: ## Key Features
 - **Login and Sign Up with Google Auth**: Users can conveniently log in or sign up using their Google credentials, ensuring a seamless and secure authentication process. Connect to Google Favorite Places: SmarTravel allows users to connect to their Google Favorite Places, making it easy to import their preferred destinations directly into the app.
 - **Trip Planning and Management**:Create Custom Trips: Users can create personalized trips by specifying dates, destinations, and other trip details. This feature enables travelers to plan their adventures with ease.
 Real-Time Map Integration: As users add destinations to their trips, SmarTravel immediately pins these places on a Google Maps-based travel map, providing an intuitive and visual representation of their itinerary.
 
 - **Trip History**: Users can access a comprehensive history of their past trips, allowing them to reminisce about previous adventures and access important trip details.
 
+:iphone: ## Screen Shots
 - **Upcoming Trips**: SmarTravel provides a section where users can view and manage their upcoming trips. This feature allows travelers to prepare for their future adventures, ensuring they don't miss out on exciting opportunities.
 
 - **Google Maps Integration**: No more wasted time and money. SmarTravel ensures you won't miss any of your favorite places or experience any travel-related hassles.
+
+
